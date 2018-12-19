@@ -1,0 +1,9 @@
+package common;
+
+
+public class Main {
+    public static void main(String[] args){
+        System.out.println(System.getProperty("user.dir") + "/src/test/resources/");
+        System.out.println(System.getProperty("os.name").toLowerCase());
+    }
+}

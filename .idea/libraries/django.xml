@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="django">
+    <CLASSES />
+    <JAVADOC />
+    <NATIVE>
+      <root url="file:///Library/Python/2.7/site-packages/django" />
+    </NATIVE>
+    <SOURCES />
+  </library>
+</component>
